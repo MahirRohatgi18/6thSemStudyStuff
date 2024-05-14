@@ -1,0 +1,19 @@
+ Important topics of Computer Vision 
+
+1. Image formation and Projection (Handout) (done)
+2.  Image Transformation: Orthogonal, Euclidean, Affine, Projective,(Handout) (done)
+3. Image Enhancement an- Spatial and frequency domain (Linear, Logarithmic, Power Law)(Handout) (done)
+4. Fourier Transform Convolution and Filtering(Handout) (done)
+6. Image Enhancement, Restoration,Histogram Processing(Handout) (Done) (Histogram left)
+7. Color Model (RGB, CMY, CMYK) (done)
+8 Sampling and Quantization. (done)         
+9. image capturing process  (done)               
+10. face detection (Handout) (done)
+11.  3D computer vision (Handout)                    
+12  image segmentation algorithm (done)         
+13  edge detection,(Handout) (done)
+14. filtering,  Filtering:- Laplancian filtering, Gaussian filtering, numerical those covered in classroom (Youtube)
+15.image demonising,(deleted)            
+16. effect of noise on image (deleted)
+13:- do the numerical problems of Robert sobel and piwett edged dector (youtube)
+

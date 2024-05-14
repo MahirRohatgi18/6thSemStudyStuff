@@ -1,0 +1,21 @@
+1.All assignments thoroughly  (done)
+2.Importance of CV, need? (done)
+Difference between cv and human vision(done).
+What is OCR? (done)
+Why is CV hard?(Significance, Importance)(done)
+Image formation( How to design a camera, pin-hole camera) (done)
+Depth of field (DOF)(done)
+Field of view (FOV) (done)
+Perspective distortion ?
+Afine camera
+Digital Camera
+Color models (done)
+Image transformation (Spacial, geometrical transformation, orthogonal transformation) (done)
+Grey level, linear, Logarithmic, power law transformation  (done) 
+Stretching (Contrast, linear stretching)
+Filters(Numericals)-convolution, masking, Smoothening (done?)
+Image enhancement (done)
+Major steps in the digital image processing - 9 steps (done)
+Histogram equalisation(Numericals) (done)
+Histogram stretching (done)
+Segmentation (reason splitting & growing) (not coming)
